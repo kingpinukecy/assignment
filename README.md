@@ -5,8 +5,11 @@ in week 4 task.
 The following Models and Attributes were added to the model.
 
 Model: Artiste, Song, Lyric
+
 Attributes for “Artiste” : first_name, last_name, age
+
 Attributes for “Song” : title, date released, likes, artiste_id
+
 Attributes for “Lyric”: content, song_id
 
 And i specify the foreignkey relationship between the models.
