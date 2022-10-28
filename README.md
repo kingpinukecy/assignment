@@ -22,7 +22,6 @@ Message
 were added to the contact page
 
 
-
 # Task Title: Week 3 Tasks ( b) Using HTML and CSS
 In this project i created the following pages using HTML CSS
 
