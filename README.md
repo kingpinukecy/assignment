@@ -39,11 +39,13 @@ Clone the project
 
 Go to the project directory
 For songcrud project
-
+```bash
 cd https://github.com/kingpinukecy/assignment/tree/week4/Songcrud
-  
+```
+```bash
 For flexbox project
    cd https://github.com/kingpinukecy/assignment/tree/week4/Week4_flexbox
+```
 
 ## Design
 
