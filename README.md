@@ -27,7 +27,9 @@ were added to the contact page
 In this project i created the following pages using HTML CSS
 
 Registration page
+
 Login page
+
 Success register page
 
 My registration page have the following content;
@@ -53,8 +55,15 @@ Clone the project
 
 
 Go to the project directory
-
-  cd portfolio and cd registration
+  ```bash
+  cd portfolio 
+  ```
+  https://github.com/kingpinukecy/assignment/tree/week3/portfolio
+  
+  ```bash
+  cd registration
+  ```
+  https://github.com/kingpinukecy/assignment/tree/week3/registration_page
 
 ## Design
 
@@ -71,6 +80,7 @@ For my portfolio
 https://portfolio.whizkingpin.repl.co/
 
 For my registration page
+
 https://registrationpage.whizkingpin.repl.co
 
 ## FAQ
