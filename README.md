@@ -9,27 +9,8 @@ This project requires me to design a card using flexbox and grid
 
 The first part was to recreate a 3-column card design using CSS Flexbox  Layout
  
-Secondly, i recreate a design using CSS Grid Layout  ## Task Title: Week 4 Task > CSS cont.
-This project requires me to design a card using flexbox and grid
-
-The first part was to recreate a 3-column card design using CSS Flexbox  Layout
- 
-Secondly, i recreate a design using CSS Grid Layout  ## Task Title: Week 4 Task > CSS cont.
-This project requires me to design a card using flexbox and grid
-
-The first part was to recreate a 3-column card design using CSS Flexbox  Layout
- 
-Secondly, i recreate a design using CSS Grid Layout  ## Task Title: Week 4 Task > CSS cont.
-This project requires me to design a card using flexbox and grid
-
-The first part was to recreate a 3-column card design using CSS Flexbox  Layout
- 
-Secondly, i recreate a design using CSS Grid Layout  ## Task Title: Week 4 Task > CSS cont.
-This project requires me to design a card using flexbox and grid
-
-The first part was to recreate a 3-column card design using CSS Flexbox  Layout
- 
 Secondly, i recreate a design using CSS Grid Layout  
+
 ## Run Locally
 
 Clone the project
